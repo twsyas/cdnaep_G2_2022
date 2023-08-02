@@ -3,7 +3,7 @@
 ### Projeto final das aulas de Ciência de Dados no python do projeto CDnaEP.
 Pacotes utilizados:
 - Pandas
-- NumPy
+- Seaborn
 - Plotly.Express
 - Matplotlib.Pyplot
 - Tabulate
